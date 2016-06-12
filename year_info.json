@@ -1,0 +1,171 @@
+{
+	"2014-2015": {
+		"reportable_threshold": 12800,
+		"major_parties": [
+			"liberal",
+			"labor",
+			"green",
+			"national",
+            "palmer"
+		]
+	},
+	"2013-2014": {
+		"reportable_threshold": 12400,
+		"major_parties": [
+			"liberal",
+			"labor",
+			"green",
+			"national",
+            "palmer"
+		]
+	},
+	"2012-2013": {
+		"reportable_threshold": 12100,
+		"major_parties": [
+			"liberal",
+			"labor",
+			"green",
+			"national"
+		]
+	},
+	"2011-2012": {
+		"reportable_threshold": 11900,
+		"major_parties": [
+			"liberal",
+			"labor",
+			"green",
+			"national"
+		]
+	},
+	"2010-2011": {
+		"reportable_threshold": 11500,
+		"major_parties": [
+			"liberal",
+			"labor",
+			"green",
+			"national"
+		]
+	},
+	"2009-2010": {
+		"reportable_threshold": 11200,
+		"major_parties": [
+			"liberal",
+			"labor",
+			"green",
+			"national"
+		]
+	},
+	"2008-2009": {
+		"reportable_threshold": 10900,
+		"major_parties": [
+			"liberal",
+			"labor",
+			"green",
+			"national"
+		]
+	},
+	"2007-2008": {
+		"reportable_threshold": 10500,
+		"major_parties": [
+			"liberal",
+			"labor",
+			"green",
+			"national"
+		]
+	},
+	"2006-2007": {
+		"reportable_threshold": 10300,
+		"major_parties": [
+			"liberal",
+			"labor",
+			"green",
+			"national"
+		]
+	},
+	"2005-2006": {
+		"reportable_threshold": 1500,
+		"major_parties": [
+			"liberal",
+			"labor",
+			"green",
+			"national"
+		]
+	},
+	"2004-2005": {
+		"reportable_threshold": 1500,
+		"major_parties": [
+			"liberal",
+			"labor",
+			"green",
+			"cdp",
+			"national"
+		]
+	},
+	"2003-2004": {
+		"reportable_threshold": 1500,
+		"major_parties": [
+			"liberal",
+			"labor",
+			"green",
+			"cdp",
+			"national"
+		]
+	},
+	"2002-2003": {
+		"reportable_threshold": 1500,
+		"major_parties": [
+			"liberal",
+			"labor",
+			"green",
+			"cdp",
+			"national"
+		]
+	},
+	"2001-2002": {
+		"reportable_threshold": 1500,
+		"major_parties": [
+			"democrat",
+			"liberal",
+			"labor",
+			"green",
+			"cdp",
+			"national"
+		]
+	},
+	"2000-2001": {
+		"reportable_threshold": 1500,
+		"major_parties": [
+			"democrat",
+			"liberal",
+			"labor",
+			"green",
+			"cdp",
+			"national",
+			"one nation"
+		]
+	},
+	"1999-2000": {
+		"reportable_threshold": 1500,
+		"major_parties": [
+			"democrat",
+			"liberal",
+			"labor",
+			"green",
+			"cdp",
+			"national",
+			"one_nation"
+		]
+	},
+	"1998-1999": {
+		"reportable_threshold": 1500,
+		"major_parties": [
+			"democrat",
+			"liberal",
+			"labor",
+			"green",
+			"cdp",
+			"national",
+			"one_nation"
+		]
+	}
+}

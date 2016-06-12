@@ -1,0 +1,47 @@
+[
+    {
+        "display": "Democrats",
+        "file": "democrat",
+        "color": "yellow"
+    }, 
+    {
+        "display": "National",
+        "file": "national",
+        "color": "cyan"
+    }, 
+    {
+        "display": "Liberal",
+        "file": "liberal",
+        "color": "blue"
+    }, 
+    {
+        "display": "Labor",
+        "file": "labor",
+        "color": "red"
+    }, 
+    {
+        "display": "Greens",
+        "file": "green",
+        "color": "green"
+    },
+    {
+        "display": "Family First",
+        "file": "family_first",
+        "color": "orange"
+    }, 
+    {
+        "display": "Christian Democrats",
+        "file": "cdp",
+        "color": "gray"
+    }, 
+    {
+        "display": "One Nation",
+        "file": "one_nation",
+        "color": "white"
+    },
+    {
+        "display": "Palmer United",
+        "file": "palmer",
+        "color": "yellow"
+    }
+]
