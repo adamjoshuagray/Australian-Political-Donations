@@ -11,6 +11,8 @@ These notebooks contain information about donors to the major political parties 
 - [2010-2011](http://nbviewer.jupyter.org/github/adamjoshuagray/Australian-Political-Donations/blob/master/Donations-2010-2011.ipynb)
 - [2009-2010](http://nbviewer.jupyter.org/github/adamjoshuagray/Australian-Political-Donations/blob/master/Donations-2009-2010.ipynb)
 - [2008-2009](http://nbviewer.jupyter.org/github/adamjoshuagray/Australian-Political-Donations/blob/master/Donations-2008-2009.ipynb)
-- 
+
+#### Template Notebook
+
 Note that the template notebook, [Donations](https://github.com/adamjoshuagray/Australian-Political-Donations/blob/master/Donations.ipynb) can produce sheets for years running back to 1998-1999. To do that just checkout the repository and run the sheet for your desired year.
 
